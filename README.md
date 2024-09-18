@@ -1,4 +1,4 @@
-# Proyecto Aplicación de deportes
+# Aplicación de deportes
 
 **- Idea del proyecto** 
 <br> La principal idea es cubrir información y noticias precisas principalmente sobre fútbol y algun que otro tipo de deporte.
