@@ -30,14 +30,11 @@ Utilizaremos varias tecnologías como:
 4. Java
 5. Web Scraping
 
+
 <style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
+red { color: red }
+yellow { color: yellow }
 </style>
 
-<div class="green">
-    Markdown css styles
-</div>
+<red> red color markdown text</red>
+<yellow> red color markdown text</yellow>
