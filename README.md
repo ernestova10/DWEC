@@ -16,15 +16,17 @@
     Periódico deportivo basado más en el mundo del fútbol, aún así tiene mucha variedad de deportes dandote la posibilidad de conocer noticias, eventos, horarios e información en directo.
 
 **- Funcionalidades clave**
-<br> Va a tener varias funcionalidades claves:
+<br> Va a tener varias funcionalidades claves como:
 1. Registro de usuarios
 2. Elección de equipo favortito
 3. Avisos de eventos de tu equuipo favorito
 4. Información detallada de clubes
-
-**- Modelos de  ejecución**
-**- Lenguajes de programación web**
+   
 **- Tecnologías a utilizar**
-**- Compatibilidad en navegadores**
+Utilizaremos varias tecnologías como:
+1. HTML
+2. CSS
+3. JavaScript
+4. Java
+5. Web Scraping
 
-**negrita** *cursiva*
