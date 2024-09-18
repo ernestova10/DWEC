@@ -1,10 +1,10 @@
 # Proyecto Aplicación de deportes
 
 **- Idea del proyecto** 
-<br>     La principal idea es cubrir información y noticias precisas principalmente sobre fútbol y algun que otro tipo de deporte.
+<br> La principal idea es cubrir información y noticias precisas principalmente sobre fútbol y algun que otro tipo de deporte.
 
 **- Audiencia objetivo** 
-<br>     El producto va destinado a apasionados del fútbol, incluyendo también otros tipos de deportes.
+<br> El producto va destinado a apasionados del fútbol, incluyendo también otros tipos de deportes.
 
 **- Análisis de mercado**
 1. Besoccer
@@ -16,6 +16,12 @@
     Periódico deportivo basado más en el mundo del fútbol, aún así tiene mucha variedad de deportes dandote la posibilidad de conocer noticias, eventos, horarios e información en directo.
 
 **- Funcionalidades clave**
+<br> Va a tener varias funcionalidades claves:
+1. Registro de usuarios
+2. Elección de equipo favortito
+3. Avisos de eventos de tu equuipo favorito
+4. Información detallada de clubes
+
 **- Modelos de  ejecución**
 **- Lenguajes de programación web**
 **- Tecnologías a utilizar**
