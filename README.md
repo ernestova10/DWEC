@@ -1,10 +1,10 @@
 # Proyecto Aplicación de deportes
 
 **- Idea del proyecto**
-    La principal idea es cubrir información y noticias precisas principalmente sobre fútbol y algun que otro tipo de deporte.
+La principal idea es cubrir información y noticias precisas principalmente sobre fútbol y algun que otro tipo de deporte.
 
 **- Audiencia objetivo**
-    El producto va destinado a apasionados del fútbol, incluyendo también otros tipos de deportes.
+El producto va destinado a apasionados del fútbol, incluyendo también otros tipos de deportes.
 
 **- Análisis de mercado**
 1. Besoccer
