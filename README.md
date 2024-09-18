@@ -29,4 +29,5 @@ Utilizaremos varias tecnologías como:
 3. JavaScript
 4. Java
 5. Web Scraping
-
+6. SQL
+   
