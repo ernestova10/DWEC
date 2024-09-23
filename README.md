@@ -7,14 +7,14 @@
 <br> El producto va destinado a apasionados del fútbol, incluyendo también otros tipos de deportes.
 
 **- Análisis de mercado**
-1. Besoccer
+1. Besoccer <br>
     Aplicación destinada a noticias, eventos, resultados de fútbol.
     Esta aplicación está destinada solo a fútbol dándote la posibilidad de conocer cualquier evento de diferentes países, horarios de partidos de ligas por todo el mundo, resultados, información en directo de partidos y estadisticas.
-2. Flashscore
+2. Flashscore <br>
     Aplicación similar a la anterior mencionada, solo que ampliando los deportes, no solo esta dedicada al fútbol, si no que a muchos otros deportes como por ejemplo: baloncesto, tenis, golf, balonmano, fútbol sala, boxeo, etc.
-3. Marca
+3. Marca <br>
     Periódico deportivo basado más en el mundo del fútbol, aún así tiene mucha variedad de deportes dandote la posibilidad de conocer noticias, eventos, horarios e información en directo.
-4. Idea diferenciadora
+4. Idea diferenciadora <br>
     Quinielas cada jornada, al acertar acumulas puntos para canjear en regalos.
 
 **- Funcionalidades clave**
