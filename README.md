@@ -15,7 +15,7 @@
 3. Marca <br>
     Periódico deportivo basado más en el mundo del fútbol, aún así tiene mucha variedad de deportes dandote la posibilidad de conocer noticias, eventos, horarios e información en directo.
 4. Idea diferenciadora <br>
-    Quinielas cada jornada, al acertar acumulas puntos para canjear en regalos.
+    Quinielas cada jornada, al acertar, acumulas puntos para canjear en regalos.
 
 **- Funcionalidades clave**
 <br> Va a tener varias funcionalidades claves como:
