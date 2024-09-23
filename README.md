@@ -26,7 +26,7 @@
 5. Quinielas para conseguir puntos y canjear en regalos
    
 **- Tecnologías a utilizar**
-Utilizaremos varias tecnologías como:
+<br> Utilizaremos varias tecnologías como:
 1. HTML
 2. CSS
 3. JavaScript
