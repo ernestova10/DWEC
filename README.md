@@ -1,5 +1,5 @@
 # Aplicación de deportes
-
+## Documento de propuesta
 **- Idea del proyecto** 
 <br> La principal idea es cubrir información y noticias precisas principalmente sobre fútbol y algun que otro tipo de deporte.
 
