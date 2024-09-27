@@ -41,7 +41,7 @@ El producto va destinado a apasionados del fútbol, incluyendo también otros ti
 Va a tener varias funcionalidades claves como:
 1. Registro de usuarios
 2. Elección de equipo favortito
-3. Avisos de eventos de tu equuipo favorito
+3. Avisos de eventos de tu equipo favorito
 4. Información detallada de clubes
 5. Quinielas para conseguir puntos y canjear en regalos
    
