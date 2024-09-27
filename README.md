@@ -3,6 +3,13 @@
 
 ### Índice
 
+1. [Idea del proyecto](https://github.com/ernestova10/DWEC/blob/main/README.md#--idea-del-proyecto)
+2. [Audiencia objetivo](https://github.com/ernestova10/DWEC/blob/main/README.md#--audiencia-objetivo)
+3. [Análisis de mercado](https://github.com/ernestova10/DWEC/blob/main/README.md#--an%C3%A1lisis-de-mercado)
+4. [Funcionalidades clave](https://github.com/ernestova10/DWEC/blob/main/README.md#--funcionalidades-clave)
+5. [Tecnologías a utilizar](https://github.com/ernestova10/DWEC/blob/main/README.md#--tecnolog%C3%ADas-a-utilizar)
+
+ 
 ### - Idea del proyecto 
 
 La principal idea es cubrir información y noticias precisas principalmente sobre fútbol y algun que otro tipo de deporte.
